@@ -1,1 +1,1 @@
-# Capstone
+# Advanced Hand Gesture Controlled Presentation
